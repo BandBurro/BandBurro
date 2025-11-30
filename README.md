@@ -1,56 +1,58 @@
-Hi there 👋 I'm Matheus Peixoto.
-Data Analyst & Esports Operations Specialist
-I bridge the gap between high-level operations and data-driven strategy. With 6 years of experience managing competitive ecosystems, I now use Python, SQL, and Power BI to transform raw data into actionable intelligence.
-💻  About Me
-🚀   6+ years of experience in Esports Operations (Rally Cry, Gamercraft).
-🎓   Computer Science Student at Centro Universitário CEUB.
-🔭   Currently working on ETL pipelines and Data Visualization.
-🥋   Passionate about Technology, Esports, and Jiu-Jitsu.
-💡   Goal: Transforming data into strategic business decisions.
-🛠  Tech Stack & Tools
-Data Analysis & Engineering
+### Hi there 👋 I'm Matheus.
+
+### 💻 &nbsp;About Me 
+
+- 🎯 &nbsp; Data Analyst & Esports Operations Specialist with 6+ years in Operations, transitioning to Data Science and Engineering.
+- 🎓 &nbsp; Computer Science Student at UniCEUB | HR Associate Degree.
+- 🤔 &nbsp; Bridging the gap between strategic business operations and technical data implementation.
+- 🎮 &nbsp; Passionate about Technology, Competitive Gaming (Esports), Jiu-Jitsu, and Traveling.
+
+
+### 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=4EAA25)
+- 📊 &nbsp;
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=009688)
+  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=D71F00)
+  ![DuckDB](https://img.shields.io/badge/-DuckDB-333333?style=flat&logo=duckdb&logoColor=FFF000)
+- 🛢 &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+- 📈 &nbsp;
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib&logoColor=11557C)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn&logoColor=3776AB)
+- ⚙️ &nbsp;
+  ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n&logoColor=FF6D5A)
+  ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai&logoColor=412991)
+  ![Airtable](https://img.shields.io/badge/-Airtable-333333?style=flat&logo=airtable&logoColor=18BFFF)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=000000)
+- 🔧 &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+## My Stats
 <p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-SQL-4479A1%3Fstyle%3Dflat%26logo%3Dpostgresql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Pandas-150458%3Fstyle%3Dflat%26logo%3Dpandas%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Power%2520BI-F2C811%3Fstyle%3Dflat%26logo%3Dpowerbi%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-DuckDB-FFF000%3Fstyle%3Dflat%26logo%3Dduckdb%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-FastAPI-009688%3Fstyle%3Dflat%26logo%3Dfastapi%26logoColor%3Dwhite" />
-</p>
-Automation & Tools
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-n8n-EA4B71%3Fstyle%3Dflat%26logo%3Dn8n%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-OpenAI%2520API-412991%3Fstyle%3Dflat%26logo%3Dopenai%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Git-F05032%3Fstyle%3Dflat%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Jira-0052CC%3Fstyle%3Dflat%26logo%3Djira%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Notion-000000%3Fstyle%3Dflat%26logo%3Dnotion%26logoColor%3Dwhite" />
-</p>
-📂  Featured Projects
-🚗 Uber Ride Analytics
-Comprehensive analysis of 150,000+ rides.
-Tech: FastAPI, ETL Pipelines, DuckDB, Pandas, Postgres.
-Impact: Uncovered key trends in customer behavior and payment preferences.
-🤖 Tournament Administrator Bot
-Automated support for 500+ participants using AI.
-Tech: n8n, OpenAI API, Discord Integration, Airtable.
-Impact: Reduced admin workload by answering questions based on official rulebooks.
-💻 TechStore Data Analysis
-Database simulation for a tech retailer.
-Tech: Python, MySQL, SQLAlchemy.
-📊  My Stats
-<!-- Lembre-se de trocar "SEU_USERNAME_AQUI" pelo seu usuário real do GitHub -->
-<p align="left">
-<a href="https://www.google.com/search?q=https://github.com/SEU_USERNAME_AQUI">
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USERNAME_AQUI%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" />
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USERNAME_AQUI%26theme%3Dradical%26layout%3Dcompact%26hide_border%3Dtrue%26exclude_lang%3Dhtml,css" />
+<a href="https://github.com/BandBurro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BandBurro&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BandBurro&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-🤝🏻  Connect with Me
+
+
+##  🤝🏻 &nbsp;Connect with Me
+
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3DLinkedin%26logoColor%3Dwhite"/>
-</a>
-<a href="mailto:matheuswark@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-matheuswark%40gmail.com-D14836%3Fstyle%3Dflat-square%26logo%3DGmail%26logoColor%3Dwhite"/>
-</a>
-</p>
+<a href="https://www.linkedin.com/in/humildancia/"><img src="https://img.shields.io/badge/-Matheus%20Peixoto-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:matheuswark@gmail.com"><img src="https://img.shields.io/badge/-YOUR_EMAIL@example.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<!--
+**BandBurro/BandBurro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
