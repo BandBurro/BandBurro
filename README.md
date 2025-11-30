@@ -50,7 +50,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/humildancia/"><img src="https://img.shields.io/badge/-Matheus%20Peixoto-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:matheuswark@gmail.com"><img src="https://img.shields.io/badge/-YOUR_EMAIL@example.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:matheuswark@gmail.com"><img src="https://img.shields.io/badge/-matheuswark@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **BandBurro/BandBurro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
