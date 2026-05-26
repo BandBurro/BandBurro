@@ -38,24 +38,22 @@
 
 I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and Esports**, now channeling that experience into **Data Science & Engineering**. I love turning messy, real-world business problems into clean data pipelines and decisions backed by evidence.
 
-- 🔭 **Currently working on:** *[your current project — keep this updated!]*
-- 🌱 **Learning:** Advanced SQL patterns, data orchestration, and FastAPI in production
-- 🎯 **2026 Goal:** Transition into a Data Engineering role
-- 🥋 **Outside of code:** Jiu-Jitsu, competitive gaming, and traveling
+- 🔭 **Currently working on:** Developing custom API integrations and automated data retrieval tools using Python.
+- 🌱 **Learning:** Advanced SQL patterns, data orchestration, and FastAPI in production.
+- 🎯 **2026 Goal:** Transition into a Data Engineering role.
+- 🥋 **Outside of code:** Jiu-Jitsu, competitive gaming, and traveling.
 - 📍 **Based in:** Taguatinga - DF, Brazil 🇧🇷
-- 💬 **Ask me about:** Esports operations, data analysis for ops teams, or career transitions into tech
+- 💬 **Ask me about:** Esports operations, data analysis for ops teams, or career transitions into tech.
 
 ---
 
 ### 🚀 Featured Projects
 
-> 💡 *Pin your best repos on your profile so they appear on your overview. Replace the placeholders below with short descriptions of your top 3–6 projects.*
-
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔗 **[Project Name](#)** | One sentence about what it does and the problem it solves. | `Python` `Pandas` `PostgreSQL` |
-| 🔗 **[Project Name](#)** | One sentence about what it does and the problem it solves. | `FastAPI` `DuckDB` `n8n` |
-| 🔗 **[Project Name](#)** | One sentence about what it does and the problem it solves. | `SQL` `Power BI` |
+| 🔗 **[Game Data Deltalake](https://github.com/BandBurro/lol-match-medallion-data-deltalake)** | End-to-end pipeline that extracts and parses competitive tactical MOBA API data into a Databricks delta lake, orchestrated with Apache Airflow and surfaced through an interactive Plotly analytics dashboard. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 🔗 **[Ops Automation API](https://github.com/BandBurro)** | Lightweight, high-performance backend utility that orchestrates workspace tasks, handles JSON configurations, and automates operational syncs. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
+| 🔗 **[Tournament Analytics Dashboard](https://github.com/BandBurro)** | Interactive BI interface mapping historical performance metrics, roster timelines, and KPI achievements for ops teams. | ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
 ---
 
@@ -73,6 +71,15 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+**Orchestration & Automation**
+
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 **Databases**
 
@@ -82,22 +89,15 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 **Visualization**
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Automation & AI**
-
-![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ### 📊 GitHub Stats
