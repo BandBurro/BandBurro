@@ -52,8 +52,8 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🔗 **[Game Data Deltalake](https://github.com/BandBurro/lol-match-medallion-data-deltalake)** | End-to-end pipeline that extracts and parses competitive tactical MOBA API data into a Databricks delta lake, orchestrated with Apache Airflow and surfaced through an interactive Plotly analytics dashboard. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 🔗 **[Ops Automation API](https://github.com/BandBurro)** | Lightweight, high-performance backend utility that orchestrates workspace tasks, handles JSON configurations, and automates operational syncs. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
-| 🔗 **[Tournament Analytics Dashboard](https://github.com/BandBurro)** | Interactive BI interface mapping historical performance metrics, roster timelines, and KPI achievements for ops teams. | ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| 🔗 **[Automated Tournament Admin](https://github.com/BandBurro/Tournament-Admin-Bot)** | Lightweight, high-performance backend utility that orchestrates workspace tasks, handles JSON configurations, and automates operational syncs. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
+| 🔗 **[Tournament Analytics Dashboard](https://github.com/BandBurro/-Game-Survey-Insights-Dashboard)** | Interactive BI interface mapping historical performance metrics, roster timelines, and KPI achievements for ops teams. | ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
 ---
 
@@ -103,12 +103,12 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BandBurro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BandBurro&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BandBurro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BandBurro&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandBurro&theme=dracula&layout=compact&langs_count=8&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandBurro&theme=radical&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
