@@ -1,58 +1,141 @@
-### Hi there 👋 I'm Matheus.
-
-### 💻 &nbsp;About Me 
-
-- 🎯 &nbsp; Data Analyst & Esports Operations Specialist with 6+ years in Operations, transitioning to Data Science and Engineering.
-- 🎓 &nbsp; Computer Science Student at UniCEUB | HR Associate Degree.
-- 🤔 &nbsp; Bridging the gap between strategic business operations and technical data implementation.
-- 🎮 &nbsp; Passionate about Technology, Competitive Gaming (Esports), Jiu-Jitsu, and Traveling.
-
-
-### 🛠 &nbsp;Tech Stack
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=4EAA25)
-- 📊 &nbsp;
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=009688)
-  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=D71F00)
-  ![DuckDB](https://img.shields.io/badge/-DuckDB-333333?style=flat&logo=duckdb&logoColor=FFF000)
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
-- 📈 &nbsp;
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib&logoColor=11557C)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn&logoColor=3776AB)
-- ⚙️ &nbsp;
-  ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n&logoColor=FF6D5A)
-  ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai&logoColor=412991)
-  ![Airtable](https://img.shields.io/badge/-Airtable-333333?style=flat&logo=airtable&logoColor=18BFFF)
-  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=000000)
-- 🔧 &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-## My Stats
-<p>
-<a href="https://github.com/BandBurro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BandBurro&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BandBurro&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
-
-
-##  🤝🏻 &nbsp;Connect with Me
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                  HEADER BANNER                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/humildancia/"><img src="https://img.shields.io/badge/-Matheus%20Peixoto-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:matheuswark@gmail.com"><img src="https://img.shields.io/badge/-matheuswark@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Matheus%20Nepomuceno&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35&desc=From%20Esports%20Operations%20to%20Data%20Engineering&descAlignY=55&descSize=18" alt="header banner"/>
+</p>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                  TYPING ANIMATION                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <a href="https://github.com/BandBurro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Esports+Ops+Specialist;Aspiring+Data+Engineer;Computer+Science+Student+%40+UniCEUB;Bridging+Business+Operations+%26+Data;6%2B+years+turning+chaos+into+clean+pipelines" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                  SOCIAL BADGES                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/humildancia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheuswark@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BandBurro">
+    <img src="https://img.shields.io/github/followers/BandBurro?label=Follow&style=for-the-badge&color=8A2387&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and Esports**, now channeling that experience into **Data Science & Engineering**. I love turning messy, real-world business problems into clean data pipelines and decisions backed by evidence.
+
+- 🔭 **Currently working on:** *[your current project — keep this updated!]*
+- 🌱 **Learning:** Advanced SQL patterns, data orchestration, and FastAPI in production
+- 🎯 **2026 Goal:** Transition into a Data Engineering role
+- 🥋 **Outside of code:** Jiu-Jitsu, competitive gaming, and traveling
+- 📍 **Based in:** Taguatinga - DF, Brazil 🇧🇷
+- 💬 **Ask me about:** Esports operations, data analysis for ops teams, or career transitions into tech
+
+---
+
+### 🚀 Featured Projects
+
+> 💡 *Pin your best repos on your profile so they appear on your overview. Replace the placeholders below with short descriptions of your top 3–6 projects.*
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔗 **[Project Name](#)** | One sentence about what it does and the problem it solves. | `Python` `Pandas` `PostgreSQL` |
+| 🔗 **[Project Name](#)** | One sentence about what it does and the problem it solves. | `FastAPI` `DuckDB` `n8n` |
+| 🔗 **[Project Name](#)** | One sentence about what it does and the problem it solves. | `SQL` `Power BI` |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Data & Backend**
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Visualization**
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Automation & AI**
+
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BandBurro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BandBurro&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandBurro&theme=dracula&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandBurro&theme=react-dark&hide_border=true&area=true&bg_color=151515&color=FE428E&line=8A2387&point=F27121" alt="Activity Graph" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/humildancia/">
+    <img src="https://img.shields.io/badge/-Matheus%20Peixoto-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheuswark@gmail.com">
+    <img src="https://img.shields.io/badge/-matheuswark@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                  FOOTER WAVE                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=120&section=footer" alt="footer wave"/>
+</p>
 
 <!--
 **BandBurro/BandBurro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+-->
