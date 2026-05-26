@@ -52,8 +52,10 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🔗 **[Game Data Deltalake](https://github.com/BandBurro/lol-match-medallion-data-deltalake)** | End-to-end pipeline that extracts and parses competitive tactical MOBA API data into a Databricks delta lake, orchestrated with Apache Airflow and surfaced through an interactive Plotly analytics dashboard. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 🔗 **[Automated Tournament Admin](https://github.com/BandBurro/Tournament-Admin-Bot)** | Lightweight, high-performance backend utility that orchestrates workspace tasks, handles JSON configurations, and automates operational syncs. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
-| 🔗 **[Tournament Analytics Dashboard](https://github.com/BandBurro/-Game-Survey-Insights-Dashboard)** | Interactive BI interface mapping historical performance metrics, roster timelines, and KPI achievements for ops teams. | ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| 🔗 **[TechStore — Database Operations & Advanced SQL](https://github.com/BandBurro/techstoreSQLExploration/blob/main/README.md)** | Production-grade PostgreSQL backend simulating an e-commerce store, featuring ACID-compliant stored procedures, audit triggers for price-history tracking, analytical views for BI, and role-based access control. | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| 🔗 **[Sistema de Agendamento — Clínica Dental](https://github.com/BandBurro/sistema-agendamento-clinica)** | Full-stack dental clinic management system with role-based access, drag-and-drop Kanban workflow, monthly/day calendar views, and WhatsApp appointment reminders via Evolution API. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| 🔗 **[TA Automation API](https://github.com/BandBurro/Tournament-Admin-Bot)** | Lightweight, high-performance backend utility that orchestrates workspace tasks, handles JSON configurations, and automates operational syncs. | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
+| 🔗 **[Player Sentiment Analytics Dashboard](https://github.com/BandBurro/Game-Survey-Insights-Dashboard)** | Interactive BI interface mapping historical performance metrics, roster timelines, and KPI achievements for ops teams. | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
 ---
 
@@ -62,14 +64,22 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Frontend & Frameworks**
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Data & Backend**
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
@@ -92,6 +102,11 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Testing & CI**
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Tools**
 
