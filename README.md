@@ -118,19 +118,12 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BandBurro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BandBurro&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandBurro&theme=radical&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BandBurro&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandBurro&theme=react-dark&hide_border=true&area=true&bg_color=151515&color=FE428E&line=8A2387&point=F27121" alt="Activity Graph" />
 </p>
-
----
 
 ### 🤝 Let's Connect
 
