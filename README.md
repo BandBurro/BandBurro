@@ -41,7 +41,7 @@ I'm a **Computer Science student at UniCEUB** with **6+ years in Operations and 
 - 🔭 **Currently working on:** Matchmaking fairness in Dota 2 — a calibrated draft-only win model and a Match Quality Index, fed by a serverless collector running inside a 2,000-call/day API budget.
 - 🌱 **Learning:** Advanced SQL patterns, data orchestration, and FastAPI in production.
 - 🎯 **2026 Goal:** Transition into a Data Engineering role.
-- 🥋 **Outside of code:** Jiu-Jitsu, competitive gaming, and traveling.
+- 🥋 **Outside of code:** Jiu-Jitsu, weightlifting, gaming, and traveling.
 - 📍 **Based in:** Taguatinga - DF, Brazil 🇧🇷
 - 💬 **Ask me about:** Esports operations, data analysis for ops teams, or career transitions into tech.
 
